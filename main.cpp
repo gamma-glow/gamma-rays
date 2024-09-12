@@ -9,6 +9,7 @@ int main(){
     std::reverse(arr,arr+8);
     std::sort(arr,arr+8);
     int cnt = std::count(arr,arr+8,2);
+    int sum = std::accumulate(arr,arr+2,0);
     for(int i:arr){
         std::cout << i <<"\n";
     }
