@@ -1,3 +1,13 @@
 # gamma-rays
+My brief Intro :->
+Hi, This is Aditya Patel.
+I like to deep dive the things.
+I am an tech-enthusiast.
 
-Started  git on : 11 Sep 2024
+Contact me on :
+my-whatsapp-no : 9305535051
+email-id       : aditya2357patel@gmail.com
+
+
+
+
